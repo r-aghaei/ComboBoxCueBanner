@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxCueBanner", "ComboBoxCueBanner\ComboBoxCueBanner.csproj", "{78C394FC-77A4-49A2-8977-7A6B6DC20D59}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F40108AC-5D08-4604-8042-1C1E3F40D02A}"
+	ProjectSection(SolutionItems) = preProject
+		..\ComboBoxBanner-1.png = ..\ComboBoxBanner-1.png
+		..\ComboBoxBanner-2.png = ..\ComboBoxBanner-2.png
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
